@@ -1,6 +1,6 @@
 
 def Menu():
-	mn = """
+	main_menu = """
                  _     
   /\  /\__ _ ___| |__  
  / /_/ / _` / __| '_ \ 
@@ -29,5 +29,5 @@ def Menu():
   [0] Keluar
   
 	"""
-	print(mn)
+	print(main_menu)
 	
